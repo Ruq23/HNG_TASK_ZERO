@@ -1,0 +1,24 @@
+{
+  "name": "hng_task_zero",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ruq23/HNG_TASK_ZERO.git"
+  },
+  "author": "Faruq",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ruq23/HNG_TASK_ZERO/issues"
+  },
+  "homepage": "https://github.com/Ruq23/HNG_TASK_ZERO#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20"
+  }
+}
